@@ -47,8 +47,8 @@ A secure and gas-efficient staking smart contract that enables users to stake ER
 
 ```bash
 # Clone the repository
-git clone https://github.com/vinaykekan235/Staking_Task.git
-cd Staking_Task
+git clone https://github.com/sharan12221/Staking-Contract-Task.git
+cd Staking-Contract-Task
 
 # Install dependencies
 npm install
