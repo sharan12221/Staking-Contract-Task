@@ -100,5 +100,5 @@ Tests cover:
 ### Deploy to Sepolia
 
 ```bash
-npx hardhat run scripts/deploy.js --network sepolia
+npx hardhat run script/deploy.js --network sepolia
 ```
